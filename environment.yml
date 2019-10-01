@@ -1,0 +1,8 @@
+name: am_project
+dependencies:
+  - pip=19.0.3
+  - pandas=0.24.2
+  - python=3.6.8
+  - numpy=1.15.4
+  - pip:
+    - sklearn==0.0
